@@ -1,0 +1,279 @@
+========== HEADER ==========
+.nav__logo
+Pradeep Singh
+
+.nav__link
+Home - Skills - Qualification - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__title
+Hi, I’m Pradeep Singh <br>
+Frontend Developer <br>
+Based In India <br>
+
+.home__social
+https://www.linkedin.com/
+https://github.com/
+https://dribbble.com/
+
+.home__info-title
+BIOGRAPHY
+CONTACT
+SERVICES
+YEARS OF EXPERIENCE
+COMPLETED PROJECTS
+COMPANIES WORKED
+
+.home__info-description .home__info-number
+Hi, I'm Pradeep Singh, Frontend Developer.
+Passionate about designing beautiful web
+interfaces. Based in Perú.
+
+New Delhi, India <br>
+chrismayer@email.com <br>
++91 7067935530 <br>
+
+Website Design <br>
+UI/UX Design <br>
+Animation <br>
+
+01+
+
+5++
+
+01+
+
+
+========== SKILLS ==========
+.section__title
+Skills
+
+.section__subtitle
+My favorite skills
+
+.skills__title
+Frontend Developer 
+Web Designer
+
+.skills__name .skills__subtitle
+HTML
+Intermediate
+
+CSS
+Advanced
+
+JavaScript
+Intermediate
+
+Reactjs
+Intermediate
+
+Nextjs
+basic
+
+
+nodejs
+Basic
+
+MongoDB
+Basic
+
+Express
+Intermediate
+
+github
+Intermediate
+
+Vs code
+Advanced
+
+
+========== QUALIFICATION ==========
+.section__title
+Qualification
+
+.section__subtitle
+Experience & education
+
+.qualification__title
+Education
+Work
+
+.qualification__name .qualification__country .qualification__year
+BTech - MITS Gwalior
+RGPV- University, India
+2018 - 2022
+
+Secondary Education
+State Board of India
+2015 - 2017
+
+Intermediate
+State Board of India
+2013 - 2015
+
+
+JavaScript
+01/2022 - 05/2022
+
+React
+05/2022 - 11/2022
+
+Mern stack course
+11/2022 - 02/2023
+
+
+========== SERVICES ==========
+.section__title
+Services
+
+.section__subtitle
+What i offer
+
+.services__title .services__description
+Web Development <br>
+
+
+Service that provides the best quality and at 
+the request of the client, with professional 
+work and customer support.
+
+Website <br>
+Design
+
+Testing <br>
+Debugging
+
+Responsive <br>
+Design
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.section__subtitle
+Most recent work
+
+
+.projects__subtitle .projects__title .projects__button
+Web
+Modern Website
+View demo
+
+Web
+ECommerce Store
+
+Design
+Application Design
+
+Website
+Single page Application
+
+========== TESTIMONIAL ==========
+.section__title
+Testimonial
+
+.section__subtitle
+My client saying
+
+.testimonial__description .testimonial__name .testimonial__subtitle
+“Working with Chris is to give a good 
+impression, I carry out my project at a good 
+cost, with excellent quality and attention. 
+Great service and recommended.”
+
+Klay Harris
+Client
+
+Mary Lens
+Client
+
+Anna Chel
+Client
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.section__subtitle
+Get in touch
+
+.contact__title
+Talk to me
+Write me your project
+
+.contact__data-title .contact__data-info .contact__button
+Email
+Pradeepsinghnigam0@gmail.com
+
+Whatsapp
++91 7067935530
+Write me
+
+<!-- Insert a real number plus country code -->
+https://api.whatsapp.com/send?phone=519876543210&text=Hello, more information!
+
+Messenger
+@pradeep.fb123
+Write me
+
+<!-- Insert your brand name or profile -->
+https://m.me/Nigam
+
+.contact__form-tag | placeholder
+Names
+Write your names
+
+Mail
+Write your email
+
+Project
+Write your project
+
+.contact__button
+Submit
+
+========== EMAIL JS CONTACT ==========
+
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message	
+		Write all the input fields 
+
+// serviceID - templateID - #form - publicKey
+	// Show message and add color
+		Message sent 
+	
+	// Remove message after five seconds
+
+	// Send Error
+		OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+========== FOOTER ==========
+.footer__title
+Pradeep Singh
+
+<p>
+Frontend Developer
+
+.footer__link
+Home
+Skills
+Projects
+
+.footer__social-link
+https://www.linkedin.com/
+https://github.com/
+https://dribbble.com/
+
+.footer__copy
+&#169; Copyright Nigam. All rights reserved
+
+
+
+
